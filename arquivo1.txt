@@ -1,0 +1,28 @@
+primeiro arquivo no diretótio do GIT
+
+
+primeira alteração no arquivo
+
+
+segunda alteração no arquivo
+
+GIT RESET HEAD NOME-DO-ARQUIVO
+
+GIT RESET --SOFT --MIXED[VOLTA MAS MANTEM NO STAGED] --HARD[VOLTA TODO COMMIT] + HASH
+
+
+APPETITE
+Your appetite is your hunger for food.
+Tom has a big appetite. He eats all the time.
+
+
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+ 
+ git push -u origin master
+
+https://pt.stackoverflow.com/questions/147660/fatal-not-a-git-repository
+git init dentro do repositorio 
+
+git remote add origin git@github.com:Wanderson-P-Rocha/primeiro-repositorio.git
+
+
